@@ -65,7 +65,7 @@
 # Clone repository
 git clone https://github.com/arsyiadhiim/mobiledaps.git
 
-# Install dependencies
-cd mobiledaps
-npm i
-npm run dev
+### Install dependencies
+- cd mobiledaps
+- npm i
+- npm run dev
